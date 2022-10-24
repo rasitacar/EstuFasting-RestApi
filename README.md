@@ -1,3 +1,5 @@
+https://mergen.anadolu.edu.tr/courses/99196/assignments/650186/submissions/16996?download=4595068
+
 - Veri tabanı oluşturulduktan sonra yeni veri eklemek için:
 src/main/java/com/bim423/estufasting/core/repository/initialdataloaders/concretes package'ında yoksa var olan
 örneklere bakarak yeni oluşturun varsa olan class'a girerek data Collection'ına yeni entity ekleyerek veritabanı 
